@@ -17,3 +17,5 @@ All of the host catalogs have the following columns:
 13. obs_SFR: log10(star formation rate, in solar masses per year), factoring in true SFR and observational biases
 14. SSFR: log10(specific star formation rate, in solar masses per year), facotring in the true SSFR and observational biases
 15. Accret: halo accretion rates, in solar masses per 10^9 years
+
+For each catalog, the filename indicates the minimum and maximum observed stellar mass (log10, in solar mass units) of the isolated hosts included
