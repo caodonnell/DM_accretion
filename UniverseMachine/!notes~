@@ -1,0 +1,10 @@
+All of the files in this folder have the following columns:
+0. RA (degrees)
+1. dec (degrees)
+2. z (redshift)
+3. SM: log10(stellar mass, in solar units)
+4. Dn(4000) index
+5. SPECSFR: log10(specific star formation rate, yr^-1)
+6. volume weight
+
+Columns 0-5 are derived from SDSS DR16 data (Ahumada et al. 2019). The final column is a source weight to account for the stellar mass completeness (Eqs. 2 and 7 in O'Donnell et al., submitted).
