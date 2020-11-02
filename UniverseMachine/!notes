@@ -1,4 +1,4 @@
-The files in this director are organized by simulation snapshot in the UniverseMachine (Behroozi et al. 2019) using Bolshoi-Planck data for the halo properties (Klypin et al. 2016; Rodríguez-Puebla et al. 2016b).
+The files in this director are organized by simulation snapshot (in terms of their scale factors $a$) in the UniverseMachine (Behroozi et al. 2019) using Bolshoi-Planck data for the halo properties (Klypin et al. 2016; Rodríguez-Puebla et al. 2016b).
 
 All of the host catalogs have the following columns:
 0. UniverseMachine ID: large IDs (>10^11) indicate that the halo is an orphan
