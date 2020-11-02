@@ -7,6 +7,6 @@ Currently, this repo houses the isolated host (and associated random) files used
   * **isolated_hosts_10.5_11.0.txt**: catalog of isolated hosts in the stellar mass range ![equation](https://latex.codecogs.com/gif.latex?10.5%20%3C%20%5Clog_%7B10%7D%28M_*/M_%5Codot%29%20%3C%2011.0)
   * **isolated_hosts_11.0_11.5.txt**: catalog of isolated hosts in the stellar mass range ![equation](https://latex.codecogs.com/gif.latex?11.0%20%3C%20%5Clog_%7B10%7D%28M_*/M_%5Codot%29%20%3C%2011.5)
 
-* **UniverseMachine/**: data files dervied from the 
+* **UniverseMachine/**: data files dervied from the ^^UniverseMachine^^
   
   
