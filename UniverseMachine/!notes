@@ -19,3 +19,5 @@ All of the host catalogs have the following columns:
 15. Accret: halo accretion rates, in solar masses per 10^9 years
 
 For each catalog, the filename indicates the minimum and maximum observed stellar mass (log10, in solar mass units) of the isolated hosts included
+
+As described in [O'Donnell et al. (2021)](https://academic.oup.com/mnras/article/501/1/1253/6006290?guestAccessKey=5ee6716e-d4ac-4555-bc4e-e379e639f4f5), the mass function of the UniverseMachine differs from the mass function in SDSS (Sec. 3.3.1, including Fig. 10 and Table 1). In our work (and the filenames in this repo), we use SDSS mass values. Thus, some obs_SM values in these catalogs may appear to fall outside of the indicated mass ranges, but that is an effect of the choice of the stellar mass definition.
