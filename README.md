@@ -12,7 +12,7 @@ Currently, this repo houses the isolated host (and associated random) files used
   * **!notes**: description of the catalog columns for files in this directory
   * Within each snapshot folder:
     * **isolated_hosts_a_10.5_11.0.txt**: catalog (with scale factor $a$) of isolated hosts in the stellar mass range 10.5 < \log_{10}(M_*/M_\odot) < 11.0
-        * **isolated_hosts_a_11.0_11.5.txt**: catalog (with scale factor $a$) of isolated hosts in the stellar mass range 11.0 < \log_{10}(M_*/M_\odot) < 11.5
+    * **isolated_hosts_a_11.0_11.5.txt**: catalog (with scale factor $a$) of isolated hosts in the stellar mass range 11.0 < \log_{10}(M_*/M_\odot) < 11.5
 	
   
   
